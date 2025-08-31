@@ -46,19 +46,6 @@ streamlit run email.py
 
 ---
 
-## 📸 Screenshots
-
-### Email Generation & Editing
-![Generation](assets/screenshot1.png)
-
-### Live HTML Preview
-![Preview](assets/screenshot2.png)
-
-### Send with Scheduling & Attachments
-![Send](assets/screenshot3.png)
-
----
-
 ## 📦 Roadmap
 
 - [ ] Integration with **SendGrid / Mailgun** for higher deliverability
@@ -84,4 +71,5 @@ While there are other **AI email generators** (Cold Email Generator, Personalize
 ---
 
 ## 👨‍💻 Author
-Developed by [Your Name](https://linkedin.com/in/yourprofile) ✨
+Developed by [Aarya Pandya](https://linkedin.com/in/yourprofile) ✨
+
