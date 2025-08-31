@@ -12,10 +12,8 @@ from groq import Groq
 from streamlit_quill import st_quill
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
-# Initialize Groq client with API key from .env
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 st.set_page_config(
@@ -480,4 +478,5 @@ else:
     - Be cautious when sending emails to multiple recipients
     """
     
+
     st.markdown(f'<div class="card">{security}</div>', unsafe_allow_html=True)
